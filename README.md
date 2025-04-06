@@ -1,4 +1,4 @@
-# TodoApi
+# Web API
 Este projeto é um exemplo prático de uma API RESTful desenvolvida em .NET 8, focada em cadastro, atualização, exclusão e listagem de clientes.
 
 Além das operações básicas (CRUD), o projeto implementa uma camada de autenticação por token para proteger ações sensíveis, como a exclusão de registros.
